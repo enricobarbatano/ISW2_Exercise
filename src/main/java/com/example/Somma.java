@@ -5,7 +5,7 @@ public class Somma {
     int b;
 
     public int getSomma() {
-        return a + b;
+        return a + b-1;
     }
 
 }
